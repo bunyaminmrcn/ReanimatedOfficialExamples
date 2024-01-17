@@ -12,7 +12,14 @@ import Lesson05_02 from './src/lesson_05-02';
 import Lesson05_03 from './src/lesson_05-03';
 
 
+
+import Interpolate from './src/utilities/interpolate';
+import InterpolateColor from './src/utilities/interpolateColor'
+import InterpolateExample from './src/utilities/interpolate-example';
+import Clamp from './src/utilities/clamp';
+import GetRelativeCoords from './src/utilities/getRelativeCoords';
+
 export default function App()
 {
-  return <Lesson05_03 />
+  return <GetRelativeCoords />
 }
