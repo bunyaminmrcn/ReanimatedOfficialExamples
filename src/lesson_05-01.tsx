@@ -1,6 +1,6 @@
 //https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/handling-gestures#handling-tap-gestures
 
-import 'react-native-gesture-handler';
+//import 'react-native-gesture-handler';
 import React from 'react';
 import { StyleSheet, View } from 'react-native';
 import Animated, {
